@@ -104,7 +104,7 @@ body {
 
 .header {
 
-    background: url(../../img/hero-bg.jpg) no-repeat;
+    background: url(../img/hero-bg.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -381,7 +381,7 @@ body {
 
 .explore2 {
 
-    background: url(../../img/section-bg-img.jpg) no-repeat;
+    background: url(../img/section-bg-img.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     margin-top: 100px;
@@ -595,7 +595,7 @@ body {
 
 
 .abt-header {
-    background: url(../../img/about-bg-5.jpg) no-repeat;
+    background: url(../img/about-bg-5.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -834,7 +834,7 @@ body {
 
 
 .service-header {
-    background: url(../../img/services-bg.jpg) no-repeat;
+    background: url(../img/services-bg.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -1070,7 +1070,7 @@ body {
 /* ========================= Style of Project =================== */
 
 .project-header {
-    background: url(../../img/project-background.jpg) no-repeat;
+    background: url(../img/project-background.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -1272,7 +1272,7 @@ body {
 /* ====================== Style of Contact ================= */
 
 .contact-header {
-    background: url(../../img/about-bg-2.jpg) no-repeat;
+    background: url(../img/about-bg-2.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
